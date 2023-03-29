@@ -3,3 +3,4 @@ delia 1829394 memasak
 rafi 0029394 farmasi
 puji 1294585 titl
 faqiza 282282s mesin
+cd "/home/alin/Documents/Belajar-oop-cpp/" &&
